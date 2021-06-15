@@ -3,7 +3,8 @@
   <img width="300" alt="GitHub Badges" src="https://img.shields.io/badge/Github-Badges-green?style=for-the-badge" />
 
   <h4 align="center">
-    Github Badges é uma aplicação web, construída com ReactJS, visando facilitar a criação de badges para README de projetos. Acesse-a <a href="https://github-badges.netlify.app/">aqui</a>
+    Github badges is an web application, built with ReactJS, to facilitate bagdge creation for projects README's. Acess 
+   <a href="https://github-badges.netlify.app/">here</a>
   </h4>
 </div>
 
@@ -37,39 +38,39 @@
 </p>
 
 
-## 🚀 Instalação e execução
-Para clonar e executar a aplicação, você precisará ter instalado em sua máquina o [Git](https://git-scm.com), [Node.js](https://nodejs.org) + [Yarn](https://yarnpkg.com). Com todos os programas instalados, execute as seguintes linhas de comando:
+## 🚀 Installation and execution
+To clone and execute the application, you have to install: [Git](https://git-scm.com), [Node.js](https://nodejs.org) + [Yarn](https://yarnpkg.com). With theese programs installed, execute the following command lines:
 
 ```bash
-# Clone esse repositório
+# Clone this repository
 $ git clone https://github.com/eugustavo/github-badges
 
-# Acesse o repositório
+# Acess this repository
 $ cd github-badges
 
-# Instale as dependências
+# Install the dependencies
 $ yarn install
 
-# Inicie a aplicação
+# Start the application
 $ yarn start
 ```
 
 
-## 🤔 Como contribuir
+## 🤔 How to contribute
 
-Se quiser contribuir para essa aplicação, seja corrigindo algum problema, adicionando comentários ou melhorando o código/documentação, você pode seguir esse tutorial abaixo:
+If you want to contribute for this project, either correcting an error, adding comments or working to make the code/documentation better, you can follow the tutorial below:
 
-- Faça [um fork](https://help.github.com/pt/github/getting-started-with-github/fork-a-repo) desse repositório;
-- Entre no seu perfil no GitHub e faça um clone do repositório que você fez o *fork*;
-- Crie uma *branch* com a sua alteração: `git checkout -b minha-alteracao`;
-- Faça as alterações necessárias no código ou na documentação;
-- Faça *commit* das suas alterações: `git commit -m 'feat: Minha nova feature'`;
-- Faça *push* para a sua *branch*: `git push origin minha-alteracao`;
-- Agora é só abrir a sua *pull request* no repositório que você fez o *fork*;
+- Do [a fork](https://help.github.com/pt/github/getting-started-with-github/fork-a-repo) of this repository;
+- Go to your profile, and clone your repository that you have *forked*;
+- Make a *branch* with your changes: `git checkout -b my-change`;
+- Do the necessary alterations in the code or in the documentation;
+- Do a *commit* of your changes: `git commit -m 'feat: my new feature'`;
+- Do a *push* to your *branch*: `git push origin my-change`;
+- Now it's just open a *pull request* in the *forked* repository;
 
-Depois que o *merge* da sua *pull request* for feito, você pode deletar a sua *branch*.
+After the *merge* of your *pull request* have been done, you can delete your *branch*.
 
 ---
-Feito com ♥ por Gustavo Souza :wave: [Contato](https://www.linkedin.com/in/eugustavosouza/)
+Maded with ♥ by Gustavo Souza :wave: [Contact](https://www.linkedin.com/in/eugustavosouza/)
 
 
